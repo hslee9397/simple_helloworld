@@ -1,3 +1,6 @@
+<html>
+
+<body>
 Hello World
 
 
@@ -92,3 +95,5 @@ Hello World
 <img src="./images/jbosscorp_logo.png">
 <img src="./images/jbosscorp_logo.png">
 <img src="./images/jbosscorp_logo.png">
+</body>
+</html>
